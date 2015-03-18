@@ -1,2 +1,3 @@
 Apprentice 1 = http://www.porthosp.nhs.uk/about-us/work-for-us/
 Apprentice 2 = https://ne.hee.nhs.uk/careers/apprenticeships/
+Apprentice 3 = http://www.yorkhospitals.nhs.uk/work_with_us/other_opportunities/apprenticeships/
